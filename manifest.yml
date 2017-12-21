@@ -1,0 +1,6 @@
+---
+applications:
+- name: Rebbon
+  memory: 512M
+  host: rebbon
+  domain: mybluemix.net
